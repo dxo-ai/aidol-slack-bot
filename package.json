@@ -1,0 +1,12 @@
+{
+  "name": "slack-openai-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@slack/web-api": "^6.2.4",
+    "openai": "^0.27.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
